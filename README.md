@@ -42,19 +42,19 @@ console.log("Welcome to my GitHub profile! 🎉");
 <div align="center">
 
 ### 🌟 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c&theme=dark" />
 
 ### 🚀 Frontend Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,sass,materialui&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass,materialui&theme=dark" />
 
 ### ⚡ Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,php,laravel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php&theme=dark" />
 
 ### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,aws,gcp,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,aws,docker,airtable&theme=dark" />
 
 ### 🛠️ Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,bash,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 ### 📊 Data Science & Analytics
 <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,matplotlib,jupyter,pandas&theme=dark" />

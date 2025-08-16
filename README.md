@@ -236,30 +236,6 @@ Others       15 mins         ░░░░░░░░░░░░░░░░░
 
 ---
 
-<details>
-<summary><b>📌 Pinned Repositories & More</b></summary>
-<br>
-
-### 🔥 **Hot Repositories**
-- 🚀 **[Awesome-Web-Projects](link)** - Collection of amazing web development projects
-- 📊 **[Data-Science-Toolkit](link)** - Comprehensive data science utilities
-- 🤖 **[AI-Helper-Bot](link)** - Intelligent assistant for developers
-- 🌐 **[React-Component-Library](link)** - Reusable React components
-
-### 📝 **Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable MERN Applications](link)
-- [Data Science with Python: A Complete Guide](link)
-- [Modern React Patterns and Best Practices](link)
-<!-- BLOG-POST-LIST:END -->
-
-### 🎓 **Certifications & Learning**
-- ☁️ AWS Certified Solutions Architect
-- 🐍 Python for Data Science Specialization
-- ⚛️ Advanced React Development
-- 📊 Machine Learning Engineering
-
-</details>
 
 ---
 

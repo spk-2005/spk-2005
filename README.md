@@ -34,4 +34,4 @@ I enjoy learning new technologies, contributing to open source, and improving my
 ---
 
 ## 📊 GitHub Stats
-![Prasanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Prasanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=spk-2005&show_icons=true&theme=radical)

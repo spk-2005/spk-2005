@@ -101,21 +101,6 @@ console.log("Welcome to my GitHub profile! 🎉");
 </div>
 
 ---
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="🚀" width="35" /> Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/spk-2005/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spk-2005&repo=project1&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/spk-2005/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spk-2005&repo=project2&theme=radical&hide_border=true" />
-</a>
-
-</div>
-
 ### 💼 **Project Highlights**
 
 ```yaml

@@ -1,239 +1,218 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" /> Hi there, I'm **Prasanna Kumar**!
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Prasanna%20Kumar&fontSize=50&color=0:0f0c29,50:302b63,100:24243e&fontColor=00D9FF&strokeWidth=2&stroke=00D9FF&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Data%20Science%20Explorer&descSize=18&descAlignY=75&descAlign=50"/>
+
+</div>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%92%BB;Data+Science+Explorer+%F0%9F%93%8A;Open+Source+Contributor+%F0%9F%8C%9F;Problem+Solver+%F0%9F%A7%A9)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=🚀+Building+the+future+with+MERN+Stack;🧠+Turning+data+into+intelligence;✨+Open+Source+%7C+Open+Mind;⚡+Code.+Learn.+Ship.+Repeat.)](https://git.io/typing-svg)
 
-### 🎓 B.Tech CSE | 💻 Full-Stack Developer | 🌟 Open Source Enthusiast
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7363224112997060609/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mr_developerr)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spk-2005)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasannasimha5002@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mr_developer161/?hl=en)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=spk-2005&label=Profile+Views&color=00D9FF&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/spk-2005?label=Followers&style=flat-square&color=00D9FF)](https://github.com/spk-2005)
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="🧑‍💻" width="35" /> About Me
+## 🧑‍💻 `whoami`
 
-<img align="right" alt="Coding GIF" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-
-```javascript
-const prasannaKumar = {
-    name: "Simhadri Prasanna Kumar",
-    location: "India 🇮🇳",
-    education: "B.Tech CSE - Data Science",
-    currentFocus: ["Full-Stack Development", "Data Science", "Open Source"],
-    lifePhilosophy: "Code with passion, learn continuously! 🚀",
-    funFact: "I debug in my dreams! 😴💭"
+```typescript
+const prasanna = {
+  name        : "Simhadri Prasanna Kumar",
+  pronouns    : "he/him",
+  location    : "India 🇮🇳",
+  education   : "B.Tech CSE — Data Science",
+  role        : "Full-Stack Developer",
+  stack       : ["React", "Node.js", "MongoDB", "Express", "Python"],
+  currentWork : "MERN Stack + ML/AI Applications",
+  learning    : ["Cloud Computing ☁️", "Advanced ML 🤖", "System Design 🏗️"],
+  hobbies     : ["Indian History 📜", "Cinema 🎬", "Open Source 🌟"],
+  philosophy  : "Code with passion. Learn without limits. 🚀",
+  contact     : "prasannasimha5002@gmail.com",
+  openTo      : ["Collaborations", "Internships", "Open Source"]
 };
-
-console.log("Welcome to my GitHub profile! 🎉");
 ```
 
-- 🔭 Currently working on **MERN Stack Projects** and **Data Science Applications**
-- 🌱 Learning **Cloud Computing**, **Machine Learning**, and **Advanced React Patterns**
-- 👯 Looking to collaborate on **Open Source Projects** and **Innovative Web Applications**
-- 💬 Ask me about **React, Node.js, Python, MongoDB, and Data Science**
-- ⚡ Fun fact: **I love exploring Indian history and watching thought-provoking movies!**
+> 🔥 I love building full-stack web apps, exploring machine learning, and contributing to the open-source community. I believe in writing clean, scalable code and shipping products that matter.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="🛠️" width="35" /> Tech Stack & Skills
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 🌟 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c&theme=dark" />
+### 🔤 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-### 🚀 Frontend Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass,materialui&theme=dark" />
+### ⚛️ Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
-### ⚡ Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php&theme=dark" />
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 ### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,aws,docker,airtable&theme=dark" />
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### 🛠️ Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+### 📊 Data Science & ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-### 📊 Data Science & Analytics
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,matplotlib,jupyter,pandas&theme=dark" />
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="📈" width="35" /> GitHub Analytics
-
-<div align="center">
-  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=spk-2005&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
-
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spk-2005&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
-
-</div>
-
-<div align="center">
-  
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=spk-2005&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="🏆" width="35" /> Achievements & Highlights
+## 🚀 Featured Projects
 
 <div align="center">
 
-### 🎖️ **Recent Accomplishments**
+| 🌐 E-Commerce Platform | 📊 Analytics Dashboard |
+|---|---|
+| Full-stack store with real-time chat | Interactive data viz & processing |
+| `React` `Node.js` `MongoDB` `Stripe` | `Python` `Pandas` `Plotly` `Streamlit` |
+| ✅ Payment · 💬 Chat · 🛡️ Admin | ✅ Real-time · 📈 Charts · 🔄 Live data |
 
-| Achievement | Details |
-|------------|---------|
-| 🥈 **RupaJna Contest** | **2nd Place** in National-level Prototype Challenge |
-| 🏆 **Hackathon Participant** | 24-hour Web Development Intensive |
-| 📊 **Data Science Projects** | Multiple ML/AI implementations |
-| 🌟 **Open Source** | Active contributor to community projects |
+| 📱 Task Management App | 🤖 AI Chatbot |
+|---|---|
+| Collaborative PWA workspace | NLP-powered smart assistant |
+| `React` `Firebase` `Material-UI` | `Python` `TensorFlow` `Flask` `NLP` |
+| ✅ Real-time · 🔄 Sync · 📱 PWA | ✅ Smart replies · 🧠 NLP · 🌐 REST API |
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| 🥈 | **2nd Place — RupaJna National Prototype Challenge** |
+|:---:|:---|
+| 🏅 | **24-Hour Hackathon Participant — Web Dev Intensive** |
+| 🤝 | **Active Open Source Contributor** |
+| 📊 | **Multiple ML/AI Project Implementations** |
 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=spk-2005&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=spk-2005&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=5"/>
 </div>
 
 ---
-### 💼 **Project Highlights**
 
-```yaml
-🌐 E-Commerce Platform:
-  - Tech: React, Node.js, MongoDB, Stripe
-  - Features: Payment integration, Real-time chat, Admin dashboard
-  
-📊 Data Analytics Dashboard:
-  - Tech: Python, Pandas, Plotly, Streamlit
-  - Features: Interactive visualizations, Real-time data processing
-  
-📱 Task Management App:
-  - Tech: React, Firebase, Material-UI
-  - Features: Collaborative workspace, Real-time updates, PWA
-  
-🤖 AI Chatbot:
-  - Tech: Python, TensorFlow, Flask, NLP
-  - Features: Natural language processing, Smart responses
-```
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📊" width="35" /> Coding Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=spk-2005&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spk-2005&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=spk-2005&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=FF4500&currStreakLabel=00D9FF" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=spk-2005&theme=react-dark&hide_border=true&area=true&color=00D9FF&line=00D9FF&point=FFFFFF" />
+
+</div>
+
+---
+
+## ⏱️ Weekly Coding Breakdown
 
 ```text
-💬 Programming Languages: 
-JavaScript   8 hrs 15 mins   █████████░░░░░░░░░░░░░░░░   45.2% 
-Python       4 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   24.7% 
-React        3 hrs 45 mins   █████░░░░░░░░░░░░░░░░░░░░   20.6% 
-CSS          1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   8.2% 
-Others       15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3%
+JavaScript    ████████████░░░░░░░░░░░░░   45.2%
+Python        ██████░░░░░░░░░░░░░░░░░░░   24.7%
+React/JSX     █████░░░░░░░░░░░░░░░░░░░░   20.6%
+CSS/SCSS      ██░░░░░░░░░░░░░░░░░░░░░░░    8.2%
+Others        ░░░░░░░░░░░░░░░░░░░░░░░░░    1.3%
 ```
-<!--END_SECTION:waka-->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=spk-2005&theme=react-dark&hide_border=true&area=true" />
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://github.com/spk-2005/spk-2005/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/spk-2005/spk-2005/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="🌐" width="35" /> Connect With Me
+## 💬 Random Dev Wisdom
 
 <div align="center">
-  
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7363224112997060609/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
 
-<a href="https://x.com/mr_developerr">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-
-<a href="https://github.com/spk-2005">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="mailto:prasannasimha5002@gamil.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-
-<a href="https://www.instagram.com/mr_developer161/?hl=en">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Growing%20Heart.png" alt="💗" width="35" /> Support My Work
+## ☕ Support My Work
 
 <div align="center">
 
-**If you like my projects, give them a ⭐ and consider following me!**
+**If my projects helped you, a ⭐ means the world! 🌍**
 
-<a href="https://www.buymeacoffee.com/prasannakumar">
-  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-</a>
-
-<a href="https://ko-fi.com/prasannakumar">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
-</a>
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="🐍" width="35" /> Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://github.com/spk-2005/spk-2005/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Partying%20Face.png" alt="🥳" width="35" /> Fun Section
-
-<div align="center">
-
-### 🎯 **Random Dev Meme**
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card" />
-
-### 🧠 **Quote of the Day**
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
-
-### 🎵 **Currently Vibing To**
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=yourspotifyuser&count=1" alt="Spotify"/>
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/prasannakumar)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/prasannakumar)
 
 </div>
 
 ---
 
 <div align="center">
-  
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="🫶" width="25" /> Thanks for visiting! Let's build something amazing together! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="🫶" width="25" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=spk-2005&label=Profile%20views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/spk-2005?label=Follow&style=social)](https://github.com/spk-2005)
+**🤝 Let's connect, collaborate, and build something extraordinary together!**
+
+[![GitHub followers](https://img.shields.io/github/followers/spk-2005?label=Follow%20me&style=social)](https://github.com/spk-2005) &nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=spk-2005&color=00D9FF&style=flat-square&label=Profile+Views)
 
 </div>
-
----
-
-
----
-
-**⭐ Star my repositories if you find them helpful!** | **🤝 Let's connect and collaborate!**

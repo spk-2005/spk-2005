@@ -1,218 +1,343 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Prasanna%20Kumar&fontSize=50&color=0:0f0c29,50:302b63,100:24243e&fontColor=00D9FF&strokeWidth=2&stroke=00D9FF&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Data%20Science%20Explorer&descSize=18&descAlignY=75&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=PRASANNA%20KUMAR&fontSize=60&fontAlignY=38&color=0:1a0033,25:3a0ca3,50:7209b7,75:4361ee,100:00d9ff&fontColor=ffffff&stroke=00f0ff&strokeWidth=1&animation=fadeIn&desc=BACKEND%20ENGINEER%20%E2%80%A2%20AI%20INFRASTRUCTURE%20BUILDER&descSize=18&descAlignY=62&descAlign=50"/>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%9A%80+Building+reliable+backend+systems;%F0%9F%A7%A0+Designing+AI-native+infrastructure;%E2%9A%99%EF%B8%8F+Shipping+distributed+systems;%F0%9F%94%A5+Always+learning%2C+always+building&font=Fira+Code&center=true&width=750&height=50&duration=3000&pause=1000&color=00F0FF&vCenter=true&size=23&multiline=false&repeat=true"/>
+
+<br/>
+
+<a href="https://github.com/spk-2005"><img src="https://img.shields.io/badge/GitHub-spk--2005-7209b7?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=1a0033"/></a>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7363224112997060609/"><img src="https://img.shields.io/badge/LinkedIn-Connect-3a0ca3?style=for-the-badge&logo=linkedin&logoColor=00f0ff&labelColor=1a0033"/></a>
+<a href="mailto:prasannasimha5002@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-4361ee?style=for-the-badge&logo=gmail&logoColor=00f0ff&labelColor=1a0033"/></a>
+<a href="https://x.com/mr_developerr"><img src="https://img.shields.io/badge/X-Follow-1a0033?style=for-the-badge&logo=x&logoColor=00f0ff&labelColor=1a0033"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=spk-2005&label=PROFILE+VIEWS&color=7209b7&style=for-the-badge&labelColor=1a0033"/>
+<img src="https://img.shields.io/github/followers/spk-2005?label=FOLLOWERS&style=for-the-badge&color=4361ee&labelColor=1a0033"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20AI%20INFRA-00f0ff?style=for-the-badge&labelColor=1a0033"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:00d9ff,50:4361ee,100:7209b7&section=header"/>
 
 </div>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=🚀+Building+the+future+with+MERN+Stack;🧠+Turning+data+into+intelligence;✨+Open+Source+%7C+Open+Mind;⚡+Code.+Learn.+Ship.+Repeat.)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7363224112997060609/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mr_developerr)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spk-2005)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasannasimha5002@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mr_developer161/?hl=en)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=spk-2005&label=Profile+Views&color=00D9FF&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/spk-2005?label=Followers&style=flat-square&color=00D9FF)](https://github.com/spk-2005)
-
+<img src="https://capsule-render.vercel.app/api?type=soft&height=110&color=0:1a0033,50:3a0ca3,100:7209b7&text=%F0%9F%91%8B%20About%20Me&fontColor=00f0ff&fontSize=36&animation=twinkling"/>
 </div>
 
----
+I'm **Simhadri Prasanna Kumar**, a Computer Science graduate focused on **backend engineering, AI infrastructure, and scalable software systems**.
 
-## 🧑‍💻 `whoami`
+I enjoy taking ideas from **architecture → implementation → deployment**, especially when the problem involves data, distributed systems, APIs, or AI.
 
 ```typescript
 const prasanna = {
-  name        : "Simhadri Prasanna Kumar",
-  pronouns    : "he/him",
-  location    : "India 🇮🇳",
-  education   : "B.Tech CSE — Data Science",
-  role        : "Full-Stack Developer",
-  stack       : ["React", "Node.js", "MongoDB", "Express", "Python"],
-  currentWork : "MERN Stack + ML/AI Applications",
-  learning    : ["Cloud Computing ☁️", "Advanced ML 🤖", "System Design 🏗️"],
-  hobbies     : ["Indian History 📜", "Cinema 🎬", "Open Source 🌟"],
-  philosophy  : "Code with passion. Learn without limits. 🚀",
-  contact     : "prasannasimha5002@gmail.com",
-  openTo      : ["Collaborations", "Internships", "Open Source"]
+  focus: ["Backend Engineering", "AI Infrastructure", "Distributed Systems", "Data & ML Systems"],
+  building: ["Context Trust Layer", "CloudPrint", "AI-powered developer tools"],
+  backend: ["Python", "Java", "Node.js", "FastAPI", "Spring Boot"],
+  databases: ["PostgreSQL", "Redis", "ClickHouse", "MongoDB", "pgvector"],
+  infrastructure: ["Docker", "AWS", "GCP", "REST APIs", "Message Queues"],
+  currentlyLearning: ["System Design", "Distributed Systems", "AI Agent Infrastructure", "Cloud Architecture"],
+  mindset: "Build. Measure. Improve. Ship. 🚀"
 };
 ```
 
-> 🔥 I love building full-stack web apps, exploring machine learning, and contributing to the open-source community. I believe in writing clean, scalable code and shipping products that matter.
-
----
-
-## 🛠️ Tech Arsenal
+> 💡 I care less about collecting technologies and more about understanding **how real systems work at scale**.
 
 <div align="center">
-
-### 🔤 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-
-### ⚛️ Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-### 🗄️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### 📊 Data Science & ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🌐 E-Commerce Platform | 📊 Analytics Dashboard |
-|---|---|
-| Full-stack store with real-time chat | Interactive data viz & processing |
-| `React` `Node.js` `MongoDB` `Stripe` | `Python` `Pandas` `Plotly` `Streamlit` |
-| ✅ Payment · 💬 Chat · 🛡️ Admin | ✅ Real-time · 📈 Charts · 🔄 Live data |
-
-| 📱 Task Management App | 🤖 AI Chatbot |
-|---|---|
-| Collaborative PWA workspace | NLP-powered smart assistant |
-| `React` `Firebase` `Material-UI` | `Python` `TensorFlow` `Flask` `NLP` |
-| ✅ Real-time · 🔄 Sync · 📱 PWA | ✅ Smart replies · 🧠 NLP · 🌐 REST API |
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| 🥈 | **2nd Place — RupaJna National Prototype Challenge** |
-|:---:|:---|
-| 🏅 | **24-Hour Hackathon Participant — Web Dev Intensive** |
-| 🤝 | **Active Open Source Contributor** |
-| 📊 | **Multiple ML/AI Project Implementations** |
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:7209b7,50:4361ee,100:00d9ff&section=header"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=spk-2005&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=5"/>
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=spk-2005&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spk-2005&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
-
+<img src="https://capsule-render.vercel.app/api?type=soft&height=110&color=0:1a0033,50:3a0ca3,100:7209b7&text=%F0%9F%A7%A0%20What%20I'm%20Building&fontColor=00f0ff&fontSize=36&animation=twinkling"/>
 </div>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=egg&height=90&color=0:3a0ca3,100:00d9ff&text=Context%20Trust%20Layer&fontColor=ffffff&fontSize=26&animation=fadeIn"/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=spk-2005&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=FF4500&currStreakLabel=00D9FF" />
-
+**🔐 Infrastructure for trustworthy AI agents**
 </div>
+
+AI agents increasingly depend on large amounts of enterprise context — documents, databases, APIs, conversations and internal systems. I'm exploring how to build a layer that helps AI systems:
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+🔍 Retrieve relevant context
+✂️ Reduce unnecessary context
+⚠️ Detect conflicting information
+
+</td>
+<td valign="top" width="50%">
+
+⭐ Score context reliability
+🧾 Track context provenance
+🧑‍⚖️ Manage context before it reaches an LLM
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=spk-2005&theme=react-dark&hide_border=true&area=true&color=00D9FF&line=00D9FF&point=FFFFFF" />
+![Python](https://img.shields.io/badge/Python-1a0033?style=for-the-badge&logo=python&logoColor=00d9ff)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a0033?style=for-the-badge&logo=fastapi&logoColor=00d9ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0033?style=for-the-badge&logo=postgresql&logoColor=00d9ff)
+![pgvector](https://img.shields.io/badge/pgvector-1a0033?style=for-the-badge&logoColor=00d9ff)
+![Redis](https://img.shields.io/badge/Redis-1a0033?style=for-the-badge&logo=redis&logoColor=00d9ff)
+![Docker](https://img.shields.io/badge/Docker-1a0033?style=for-the-badge&logo=docker&logoColor=00d9ff)
+![Next.js](https://img.shields.io/badge/Next.js-1a0033?style=for-the-badge&logo=next.js&logoColor=00d9ff)
 
 </div>
 
----
+<br/>
 
-## ⏱️ Weekly Coding Breakdown
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=egg&height=90&color=0:4361ee,100:7209b7&text=CloudPrint&fontColor=ffffff&fontSize=26&animation=fadeIn"/>
+
+**☁️ Distributed document processing system**
+</div>
+
+<details>
+<summary>📐 <b>Click to reveal Architecture Diagram</b></summary>
 
 ```text
-JavaScript    ████████████░░░░░░░░░░░░░   45.2%
-Python        ██████░░░░░░░░░░░░░░░░░░░   24.7%
-React/JSX     █████░░░░░░░░░░░░░░░░░░░░   20.6%
-CSS/SCSS      ██░░░░░░░░░░░░░░░░░░░░░░░    8.2%
-Others        ░░░░░░░░░░░░░░░░░░░░░░░░░    1.3%
+              ┌──────────────┐
+              │    Client    │
+              └──────┬───────┘
+                     ▼
+              ┌──────────────┐
+              │   REST API   │
+              └──────┬───────┘
+                     ▼
+              ┌──────────────┐
+              │  PostgreSQL  │
+              └──────┬───────┘
+              ┌──────▼───────┐
+              │    Worker    │
+              └──────┬───────┘
+          ┌──────────┼──────────┐
+          ▼          ▼          ▼
+       Process     Retry      Failure
+          └──────────┼──────────┘
+                     ▼
+                 Completed
 ```
 
----
+</details>
 
-## 🐍 Contribution Graph
+⚙️ Asynchronous job processing &nbsp;·&nbsp; 👷 Worker architecture &nbsp;·&nbsp; 🔁 Retry mechanisms &nbsp;·&nbsp; ☠️ Dead-letter handling
+🗄️ PostgreSQL persistence &nbsp;·&nbsp; ⚡ Redis infrastructure &nbsp;·&nbsp; 🧵 Concurrent jobs &nbsp;·&nbsp; 🔒 `FOR UPDATE SKIP LOCKED` &nbsp;·&nbsp; 🐳 Docker
 
 <div align="center">
 
-![Snake animation](https://github.com/spk-2005/spk-2005/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://github.com/spk-2005/spk-2005/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![.NET](https://img.shields.io/badge/.NET-1a0033?style=for-the-badge&logo=dotnet&logoColor=00d9ff)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-1a0033?style=for-the-badge&logo=dotnet&logoColor=00d9ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0033?style=for-the-badge&logo=postgresql&logoColor=00d9ff)
+![Redis](https://img.shields.io/badge/Redis-1a0033?style=for-the-badge&logo=redis&logoColor=00d9ff)
+![Docker](https://img.shields.io/badge/Docker-1a0033?style=for-the-badge&logo=docker&logoColor=00d9ff)
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:00d9ff,50:4361ee,100:7209b7&section=header"/>
+</div>
 
-## 💬 Random Dev Wisdom
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=110&color=0:1a0033,50:3a0ca3,100:7209b7&text=%F0%9F%92%BC%20Engineering%20Experience&fontColor=00f0ff&fontSize=32&animation=twinkling"/>
+</div>
+
+### 🏢 Backend Engineering — SaaS
+
+Worked on backend systems for a SaaS product, focusing on API development, database-driven features, query optimization, performance improvements, analytics infrastructure, and production-oriented debugging.
+
+```text
+PREWHERE pushdown  →  Column pruning  →  Selective filtering  →  Reduced rows scanned  →  🚀 Faster queries
+```
+
+This gave me practical exposure to the difference between **code that works** and **systems that perform well in production**.
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:7209b7,50:4361ee,100:00d9ff&section=header"/>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=110&color=0:1a0033,50:3a0ca3,100:7209b7&text=%F0%9F%9A%80%20Featured%20Projects&fontColor=00f0ff&fontSize=32&animation=twinkling"/>
+</div>
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+| Project | What it demonstrates |
+| :--- | :--- |
+| 🔐 **Context Trust Layer** | AI infrastructure · RAG · context reliability |
+| ☁️ **CloudPrint** | Distributed workers · retries · job queues |
+| 🤖 **AI Applications** | LLM integration · APIs · intelligent workflows |
+| 📊 **Analytics Systems** | Data processing · visualization · optimization |
 
 </div>
 
----
+<details>
+<summary>🤖 <b>AI / ML Applications — details</b></summary>
+<br/>
 
-## ☕ Support My Work
+I've also built applications involving machine learning, NLP, AI assistants, data analysis, recommendation/prediction workflows, and REST APIs for ML models.
+
+**Technologies:** `Python` `FastAPI` `Flask` `TensorFlow` `scikit-learn` `Pandas` `NumPy`
+
+</details>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:00d9ff,50:4361ee,100:7209b7&section=header"/>
+</div>
 
-**If my projects helped you, a ⭐ means the world! 🌍**
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=110&color=0:1a0033,50:3a0ca3,100:7209b7&text=%F0%9F%9B%A0%EF%B8%8F%20Technical%20Stack&fontColor=00f0ff&fontSize=32&animation=twinkling"/>
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/prasannakumar)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/prasannakumar)
+<br/>
+
+**Languages**
+<img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,c,cs&theme=dark"/>
+
+**Backend**
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,dotnet,spring&theme=dark"/>
+
+**Databases**
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark"/>
+
+**Cloud & Infrastructure**
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux&theme=dark"/>
+
+**Frontend**
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark"/>
+
+**Data & AI**
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark"/>
+
+`Pandas` `NumPy` `scikit-learn` `Jupyter` `pgvector`
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:7209b7,50:4361ee,100:00d9ff&section=header"/>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=110&color=0:1a0033,50:3a0ca3,100:7209b7&text=%F0%9F%8F%86%20Achievements&fontColor=00f0ff&fontSize=32&animation=twinkling"/>
+</div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
+🥈 **2nd Place — RupaJna National Prototype Challenge** &nbsp;·&nbsp; 🏅 **24-Hour Hackathon Participant** &nbsp;·&nbsp; 🤝 **Open Source Contributor**
 
-**🤝 Let's connect, collaborate, and build something extraordinary together!**
+<br/><br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/spk-2005?label=Follow%20me&style=social)](https://github.com/spk-2005) &nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=spk-2005&color=00D9FF&style=flat-square&label=Profile+Views)
+<img src="https://github-profile-trophy.vercel.app/?username=spk-2005&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10"/>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:00d9ff,50:4361ee,100:7209b7&section=header"/>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=110&color=0:1a0033,50:3a0ca3,100:7209b7&text=%F0%9F%93%8A%20GitHub%20Activity&fontColor=00f0ff&fontSize=32&animation=twinkling"/>
+
+<br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=spk-2005&show_icons=true&count_private=true&hide_border=true&title_color=00f0ff&icon_color=7209b7&text_color=c9d1d9&bg_color=1a0033&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spk-2005&layout=compact&hide_border=true&title_color=00f0ff&text_color=c9d1d9&bg_color=1a0033"/>
+
+<br/><br/>
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=spk-2005&hide_border=true&background=1a0033&ring=00f0ff&fire=ff4de6&currStreakLabel=00f0ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8888a8"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=spk-2005&bg_color=1a0033&color=00f0ff&line=7209b7&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:7209b7,50:4361ee,100:00d9ff&section=header"/>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=0:1a0033,50:3a0ca3,100:7209b7&text=%F0%9F%90%8D%20Contribution%20Graph&fontColor=00f0ff&fontSize=30&animation=twinkling"/>
+
+<br/>
+
+<img src="https://github.com/spk-2005/spk-2005/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+<img src="https://github.com/spk-2005/spk-2005/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:00d9ff,50:4361ee,100:7209b7&section=header"/>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=0:1a0033,50:3a0ca3,100:7209b7&text=%F0%9F%93%9A%20Currently%20Learning&fontColor=00f0ff&fontSize=30&animation=twinkling"/>
+</div>
+
+<table align="center">
+<tr>
+<th>🧩 System Design</th>
+<th>🤖 AI Infrastructure</th>
+<th>☁️ Cloud</th>
+</tr>
+<tr valign="top">
+<td>
+
+- Distributed Systems
+- Caching
+- Message Queues
+- Database Scaling
+- Reliability Engineering
+
+</td>
+<td>
+
+- RAG
+- Vector Databases
+- Agent Architecture
+- Context Engineering
+- LLM Systems
+
+</td>
+<td>
+
+- AWS
+- GCP
+- Containers
+- Production Deployment
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:7209b7,50:4361ee,100:00d9ff&section=header"/>
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=110&color=0:1a0033,50:3a0ca3,100:7209b7&text=%F0%9F%A4%9D%20Let's%20Build&fontColor=00f0ff&fontSize=32&animation=twinkling"/>
+
+**AI Infrastructure · Backend Systems · Developer Tools · Open Source · Distributed Systems**
+
+If you're building something interesting, I'd love to hear about it.
+
+<br/>
+
+### ⚡ Build systems. Solve hard problems. Keep learning.
+
+<br/>
+
+<a href="mailto:prasannasimha5002@gmail.com"><img src="https://img.shields.io/badge/Let's%20Connect-7209b7?style=for-the-badge&logo=gmail&logoColor=00f0ff&labelColor=1a0033"/></a>
+<a href="https://github.com/spk-2005"><img src="https://img.shields.io/badge/Explore%20My%20Work-1a0033?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=1a0033"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,25:4361ee,50:7209b7,75:3a0ca3,100:1a0033&height=150&section=footer&animation=twinkling"/>
 
 </div>

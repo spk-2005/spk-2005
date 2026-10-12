@@ -9,7 +9,7 @@
 <a href="https://github.com/spk-2005"><img src="https://img.shields.io/badge/GitHub-spk--2005-7209b7?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=1a0033"/></a>
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7363224112997060609/"><img src="https://img.shields.io/badge/LinkedIn-Connect-3a0ca3?style=for-the-badge&logo=linkedin&logoColor=00f0ff&labelColor=1a0033"/></a>
 <a href="mailto:prasannasimha5002@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-4361ee?style=for-the-badge&logo=gmail&logoColor=00f0ff&labelColor=1a0033"/></a>
-<a href="https://x.com/mr_developerr"><img src="https://img.shields.io/badge/X-Follow-1a0033?style=for-the-badge&logo=x&logoColor=00f0ff&labelColor=1a0033"/></a>
+<a href="https://x.com/prasann19964546"><img src="https://img.shields.io/badge/X-Follow-1a0033?style=for-the-badge&logo=x&logoColor=00f0ff&labelColor=1a0033"/></a>
 
 <br/><br/>
 
